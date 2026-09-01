@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👩‍💻 Olá! Eu sou Jéssica Paiva
 
-<!--
-**jessbrenalp/jessbrenalp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desenvolvedora de Software | Java • Spring Boot • C# • SQL
 
-Here are some ideas to get you started:
+🎓 Análise e Desenvolvimento de Sistemas  
+🎓 Engenharia de Software  
+📚 Ciência da Computação  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologias
+
+☕ Java | Spring Boot  
+💻 C# | SQL  
+📱 Android Studio  
+🗄️ MySQL  
+🔧 Git | GitHub  
+
+### 📌 Sobre mim
+
+Sou apaixonada por tecnologia e desenvolvimento de software.
+
+Atualmente, estou aprimorando minhas habilidades através de projetos
+práticos, com foco em desenvolvimento de sistemas, APIs REST e banco de dados.
+
+### 🚀 Projetos em destaque
+
+🔹 API de Gerenciamento de Tarefas  
+🔹 Mobile PetVida  
+🔹 Portfólio Pessoal  
+
+### 📖 Em constante aprendizado
+
+Busco evoluir continuamente como desenvolvedora, colocando em prática
+novos conhecimentos e tecnologias.
